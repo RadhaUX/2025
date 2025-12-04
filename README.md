@@ -1,3 +1,3 @@
-# delete(https://radhaux.github.io/delete/Home.html)
+# delete(https://radhaux.github.io/2025/Home.html)
 
-# delete(https://radhaux.github.io/delete/MES.html)
+# delete(https://radhaux.github.io/2025/MES.html)
